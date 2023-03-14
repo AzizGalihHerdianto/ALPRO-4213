@@ -30,14 +30,14 @@ int rata2array( int ar[], int size ){
 main ()
 {
     cout << "penjumlahan" << endl;
-    cout << "masukan angka ke - 1: " ;int c; cin >> c;
-    cout << "masukan angka ke - 2: " ;int d; cin >> d;
+    cout << "masukan angka ke  1: " ;int c; cin >> c;
+    cout << "masukan angka ke  2: " ;int d; cin >> d;
     cout << "hasil = " << tambah(c,d) << endl;
     cout << endl;
 
     cout << "pengurangan" << endl;
-    cout << "masukan angka ke -1: " ;int e; cin >> e;
-    cout << "masukan angka ke -2: " ;int f; cin >> f;
+    cout << "masukan angka ke 1: " ;int e; cin >> e;
+    cout << "masukan angka ke 2: " ;int f; cin >> f;
     cout << kurang(e,f) << endl;
     cout << endl;
 
