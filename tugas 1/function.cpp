@@ -1,4 +1,4 @@
-//judul
+//judul function
 #include <iostream>
 using namespace std;
 
